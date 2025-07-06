@@ -22,8 +22,9 @@ This project analyzes marketing campaign performance using key metrics like Conv
 - ROI trends varied significantly across companies and channels.
 
 ## 🔗 Files:
-- `marketing_campaign_analysis.ipynb`: Full notebook with code & visualizations
-- `Marketing Campaign Insights.pdf`: Summary PDF (optional)
+- `[[marketing_campaign_analysis](https://drive.google.com/open?id=1UoVSz1LEdvM9f4VHyHPBRvAEoqyjS2qo&usp=drive_copy).ipynb]
+`: Full notebook with code & visualizations
+- `[Marketing Campaign Insights](https://drive.google.com/open?id=1K3nAyV6lAQFLKhIsHYCJIpLSCHLltS45&usp=drive_copy).pdf `: Summary PDF (optional)
 
 ---
   
